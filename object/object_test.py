@@ -22,7 +22,7 @@ c.get_age()
 
 
 
-print()
+print("rrrrr")
 
 Animal.get_count()
 Cat.get_count()
